@@ -1,6 +1,7 @@
 # Real-Time Weather Data Analysis and Forecasting Using Python
-🚀 Live Demo — Try the Weather Dashboard
-📂 View Source Code on GitHub
+🚀 [Live Demo — Try the Weather Dashboard](https://real-time-weather-analysis-cmgk8agmks6dnf83v7oka7.streamlit.app/)
+
+📂 [View Source Code on GitHub](https://github.com/mujmulesam-max/real-time-weather-analysis)
 
 ## Project Overview
 This project retrieves hourly weather forecast data from the Open-Meteo API and analyzes it using Python. An interactive Streamlit dashboard displays weather statistics and visualizations for multiple cities.
