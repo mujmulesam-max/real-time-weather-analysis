@@ -45,5 +45,11 @@ Weather forecasts are retrieved from the [Open-Meteo API](https://open-meteo.com
 The project displays forecast data, not guaranteed observations of actual weather. Data refresh requires an internet connection.
 
 ## Author
-Add your name here.
 Samiksha Pradip Mujmule
+
+## 📸 Project Screenshots
+
+### Weather Analytics Dashboard — Pune
+
+![Weather Analytics Dashboard](screenshots/dashboard-overview.png)
+
